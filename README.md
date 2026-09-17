@@ -1,16 +1,56 @@
-## Hi there 👋
+# Matheus Hostim
 
-<!--
-**MatheusHostim/MatheusHostim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software no 3º ano na FIAP, buscando minha primeira oportunidade profissional na área de Tecnologia.
 
-Here are some ideas to get you started:
+Tenho contato acadêmico com desenvolvimento de software, aplicações mobile, APIs, banco de dados e Machine Learning, principalmente por meio de projetos desenvolvidos em equipe durante a graduação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente venho aprofundando meus conhecimentos em Cloud Computing e AWS, além de continuar estudando desenvolvimento de software e buscando ampliar minha autonomia técnica.
+
+## Tecnologias
+
+* JavaScript
+* Python
+* React Native
+* Expo
+* C#
+* SQL
+* APIs REST
+* Git
+* GitHub
+
+## Projetos em destaque
+
+### FordApp
+
+Aplicação mobile desenvolvida em equipe no Challenge FIAP + Ford, realizado em parceria com a empresa, com foco em uma solução para um problema proposto pela Ford.
+
+**Tecnologias:** React Native, Expo, Expo Router, JavaScript, APIs externas e armazenamento local.
+
+[Ver projeto](https://github.com/GuilhermeUcadete/fiap-mdi-sprint-FordApp)
+
+### EcoVisionAI
+
+Projeto acadêmico desenvolvido em equipe para classificação de risco ambiental utilizando Python, Random Forest e dados simulados inspirados em informações de monitoramento por satélites.
+
+**Tecnologias:** Python, Pandas, Scikit-learn e Machine Learning.
+
+[Ver projeto](https://github.com/MatheusHostim/EcoVisionAI)
+
+### TicketPlay
+
+Protótipo de aplicação mobile desenvolvido em equipe para uma plataforma de eventos e ingressos.
+
+**Tecnologias:** React Native, Expo, Expo Router e JavaScript.
+
+[Ver projeto](https://github.com/GuilhermeUcadete/TicketPlay)
+
+## Formação
+
+**Engenharia de Software — FIAP**
+3º ano | Previsão de conclusão: 2027
+
+## Atualmente estudando
+
+* Cloud Computing
+* AWS Cloud Practitioner
+* Desenvolvimento de software
