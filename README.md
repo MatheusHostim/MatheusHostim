@@ -12,7 +12,6 @@ Atualmente venho aprofundando meus conhecimentos em Cloud Computing e AWS, além
 * Python
 * React Native
 * Expo
-* C#
 * SQL
 * APIs REST
 * Git
