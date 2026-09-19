@@ -6,17 +6,6 @@ Tenho contato acadêmico com desenvolvimento de software, aplicações mobile, A
 
 Atualmente venho aprofundando meus conhecimentos em Cloud Computing e AWS, além de continuar estudando desenvolvimento de software e buscando ampliar minha autonomia técnica.
 
-## Tecnologias
-
-* JavaScript
-* Python
-* React Native
-* Expo
-* SQL
-* APIs REST
-* Git
-* GitHub
-
 ## Projetos em destaque
 
 ### FordApp
@@ -42,6 +31,17 @@ Protótipo de aplicação mobile desenvolvido em equipe para uma plataforma de e
 **Tecnologias:** React Native, Expo, Expo Router e JavaScript.
 
 [Ver projeto](https://github.com/GuilhermeUcadete/TicketPlay)
+
+## Tecnologias qual tenho tido contato
+
+* JavaScript
+* Python
+* React Native
+* Expo
+* SQL
+* APIs REST
+* Git
+* GitHub
 
 ## Formação
 
