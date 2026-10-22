@@ -1,55 +1,40 @@
 # Matheus Hostim
 
-Estudante de Engenharia de Software no 3º ano na FIAP, buscando minha primeira oportunidade profissional na área de Tecnologia.
+Sou estudante do 3º ano de Engenharia de Software na FIAP, com previsão de formatura em 2027. Estou procurando minha primeira oportunidade de estágio em tecnologia.
 
-Tenho contato acadêmico com desenvolvimento de software, aplicações mobile, APIs, banco de dados e Machine Learning, principalmente por meio de projetos desenvolvidos em equipe durante a graduação.
+Durante a faculdade, participei de projetos em equipe envolvendo desenvolvimento mobile, APIs e análise de dados. Atualmente também estou estudando AWS e Cloud Computing.
 
-Atualmente venho aprofundando meus conhecimentos em Cloud Computing e AWS, além de continuar estudando desenvolvimento de software e buscando ampliar minha autonomia técnica.
+## Projetos
 
-## Projetos em destaque
+### [Ford AI — Challenge FIAP + Ford](https://github.com/Enzo-B-Motta/fiap-mfi-sprint-FordApp)
 
-### FordApp
+Aplicativo feito em equipe para pesquisar carros pela CarAPI e comparar suas fichas técnicas com a Ford Ranger Raptor. Tem gráficos de potência e torque e permite salvar veículos para comparar depois.
 
-Aplicação mobile desenvolvida em equipe no Challenge FIAP + Ford, realizado em parceria com a empresa, com foco em uma solução para um problema proposto pela Ford.
+**Tecnologias:** React Native, Expo, TypeScript, CarAPI e armazenamento local.
 
-**Tecnologias:** React Native, Expo, Expo Router, JavaScript, APIs externas e armazenamento local.
+### [Plataforma SAST e DevSecOps](https://github.com/Eduardo-25/Plataforma-SAST-e-DevSecOps)
 
-[Ver projeto](https://github.com/GuilhermeUcadete/fiap-mdi-sprint-FordApp)
+Projeto da faculdade para analisar códigos em Python e identificar alguns padrões que podem representar riscos de segurança. Inclui uma API, dashboard, relatórios e verificações automatizadas no GitHub Actions. Participei dos trabalhos na página inicial e na documentação.
 
-### EcoVisionAI
+**Tecnologias:** Python, FastAPI, Docker e GitHub Actions.
 
-Projeto acadêmico desenvolvido em equipe para classificação de risco ambiental utilizando Python, Random Forest e dados simulados inspirados em informações de monitoramento por satélites.
+### [EcoVisionAI](https://github.com/MatheusHostim/EcoVisionAI)
 
-**Tecnologias:** Python, Pandas, Scikit-learn e Machine Learning.
+Projeto em equipe que usa Random Forest para classificar risco ambiental a partir de dados sintéticos. Trabalhamos com preparação dos dados, treinamento e avaliação do modelo.
 
-[Ver projeto](https://github.com/MatheusHostim/EcoVisionAI)
+**Tecnologias:** Python, Pandas e Scikit-learn.
 
-### TicketPlay
+### [TicketPlay](https://github.com/GuilhermeUcadete/TicketPlay)
 
-Protótipo de aplicação mobile desenvolvido em equipe para uma plataforma de eventos e ingressos.
+Aplicativo de eventos e ingressos desenvolvido em equipe durante a graduação.
 
-**Tecnologias:** React Native, Expo, Expo Router e JavaScript.
+**Tecnologias:** React Native, Expo e JavaScript.
 
-[Ver projeto](https://github.com/GuilhermeUcadete/TicketPlay)
+## Tecnologias com que já tive contato
 
-## Tecnologias qual tenho tido contato
+Python, JavaScript, TypeScript, React Native, Expo, SQL, APIs REST, Git e GitHub.
 
-* JavaScript
-* Python
-* React Native
-* Expo
-* SQL
-* APIs REST
-* Git
-* GitHub
+## O que estou estudando agora
 
-## Formação
-
-**Engenharia de Software — FIAP**
-3º ano | Previsão de conclusão: 2027
-
-## Atualmente estudando
-
-* Cloud Computing
-* AWS Cloud Practitioner
-* Desenvolvimento de software
+- AWS e fundamentos de Cloud Computing
+- Programação e desenvolvimento de software para fortalecer minha base
